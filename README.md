@@ -49,10 +49,6 @@ This project is a fully analog temperature alert system designed for two-wheeler
 | Idle             | 9.73 µA           |
 | Active (Buzzer)  | < 1 mA            |
 
-## License
-
-MIT License
-
 ## Author
 
 Chirag Vinayak  
